@@ -131,7 +131,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Made with <img src="assets/readme-icons/heart.png" width="24" height="24"> for Halloween 2025**
 
-**Created by Rahul - Zxtni Brand**
+**Created by Rahul - Zxtni**
 
 ![Halloween](https://img.shields.io/badge/🎃-Happy%20Halloween-orange?style=for-the-badge)
 
